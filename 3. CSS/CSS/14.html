@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html lang - "kr">
+    <head>
+        <title>다혜입니다.</title>
+        <style>
+            p, div{background-color: black;}
+            
+            /* !important: 가장 높은 우선순위 */
+            /* 그 다음은 inline */
+    
+            p {color: red !important;}
+            #id {color: yellow;}
+            div.class {color: green;}
+            .class {color: blue;}
+            div {color: purple;}
+            * {color: white};
+        </style>
+        <body>
+            <p id = "id" style = "color: orange;">p tag with id</p>
+            <div class = "class">div tag with class</div>
+        </body>
+    </head>
+</html>

@@ -1,0 +1,35 @@
+<!-- 위치와 관련한 프로퍼티[1] -->
+<!DOCTYPE html>
+
+<html lang - "kr">
+    <title>다혜입니다.</title>
+    <style>
+        body {background-color: skyblue;}
+        #block {
+            background-color: pink;
+            /* 크기를 변경하면 block은 변하는데 inline은 안변함! */
+            width: 200px;
+            height: 100px;
+            display: none;
+        }
+        #inline {
+            /* inline은 width와 height를 가질 수 없음 */
+            background-color: lemonchiffon;
+            width: 200px;
+            height: 100px;
+            display: inline-block;
+        }
+    </style>
+    <body>
+        <div id = "main">
+            <!-- block은 한 줄 전체를 차지하는 것을 볼 수 있음 -->
+            <p id = "block">
+                block
+            </p>
+            <!-- inline은 컨텐트 크기만큼 차지함 -->
+            <span id = "inline">
+                inline
+            </span>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang - "kr">
+    <head>
+        <title>다혜입니다</title>
+        <style>
+            body {margin: 0;}
+            #containter {
+                background-color: skyblue;
+                display: flex;
+                flex-direction: row;
+                width: 250px;
+                height: 250px;
+            }
+            .item {
+                border-radius: 4px;
+                background-color: pink;
+                height: 60px;
+                width: 60px;
+            }
+
+/* 총 300px 한 개의 아이템당 60px, 전체 너비에서 60px 빼면 240, 240을 2:1로 나눈다고 생각하면 안됨! */
+/* 전체에서 3개의 아이템을 뺀 120을 2:1로 나눠야됨! -> 다시 60px에 더해줌!i
+따라서 1번 픽셀은 100px, 140px이 됨!! 
+*/
+
+            #one {
+                /* flex-grow: 1; */
+                /* flex-shrink: 0; */
+
+                /* 1: on, 0: off라고 생각!  */
+                flex: 1 0 auto;
+            }
+            #two {
+                /* flex-grow: 2; */
+                flex-shrink: 1;
+            }
+            #three {
+                flex-shrink: 2;
+            }
+        </style>
+    </head>
+    <body>
+        <div id = "containter">
+            <div id = "one" class = "item"> 1 </div>
+            <div id = "two" class = "item"> 2 </div>
+            <div id = "three" class = "item"> 3 </div>
+        </div>
+    </body>
+</html>

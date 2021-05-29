@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html lang - "kr">
+<head>
+    <title>다혜입니다.</title>
+    <style>
+        body {background-color: skyblue;}
+        #main {height: 1200px;}
+        #fixed {
+            background-color: pink;
+            height: 60px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+        }
+        /* #parent {
+            background-color: pink;
+            width: 200px;
+            height: 200px;
+            position: relative;
+            top:50px;
+            left: 50px;
+        }
+        #child {
+            background-color: lemonchiffon;
+            width: 100px;
+            height: 100px;
+            /* position: static; */
+            /* position을 static으로 하고 top을 20px만큼, left를 20px만큼 옮겨주라고 하면 안옮겨짐 */
+            /* sttic은 기본으로 설정하는 것이기 때문! */
+
+            /* relative로 바꾸면 (기본 위치를 기준으로! -> 기본위치: 원래 static일 떄 있는 위치)상대위치로 나타낼 수 있게 함 */
+            /* 
+            
+            position: relative;
+
+            top: 20px;
+            left: 20px;
+        } */
+
+        /* 
+        #child2 {
+            background-color: red;
+            width: 100px;
+            height: 100px; */
+            /* position: static; */
+            /* position을 static으로 하고 top을 20px만큼, left를 20px만큼 옮겨주라고 하면 안옮겨짐 */
+            /* sttic은 기본으로 설정하는 것이기 때문! */
+
+            /* relative로 바꾸면 (기본 위치를 기준으로!)상대위치로 나타낼 수 있게 함 */
+            /* 
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }  */
+
+        #top {
+            background-color: pink;
+            height: 100px;
+            width: 100px;
+            position: absolute;
+            z-index: 2;
+        }
+        #bottom {
+            background-color: lemonchiffon;
+            height: 100px;
+            width: 100px;
+            position: absolute;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <!-- <div id = "parent">
+        <div id = "child">
+            child
+        </div>
+        
+        <div id = "parent">
+            <div id = "child2">
+                child
+            </div> -->
+            <div id = "main">
+
+                <!-- 
+                
+                ## 이렇게 하면 fixed 스크롤 내려도 고정되어있음!
+
+                <div id = "fixed">
+                    저는 고정되어 있습니다!
+                </div>
+                안녕하세요~<br>
+                저는 고다혜입니다~<br>
+                만나서 반가워요!<br>
+                우하하하!<br> 
+            -->
+
+            <!-- 이렇게만 하면 '뒤 입니다'가 앞에 오는데, z-index를 사용하여 우선순위를 정해줄 수 있음 -->
+            <div id = "main">
+                <div id = "top">
+                    앞 입니다.
+                </div>
+                <div id = "bottom">
+                    뒤 입니다.
+                </div>
+            </div>
+            </div> 
+    </div>
+</body>
+</html>
