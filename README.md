@@ -26,4 +26,10 @@
 [7. 상속과 우선순위](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/3.%20CSS/7.%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1.md)<br>
 [8. Bootsrtap](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/3.%20CSS/8.%20Bootstrap.md)<br>
 
+### 4. Django<br>
+[1. 터미널 사용법(1)](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\터미널 사용법1.md)
+[2. 터미널 사용법(2)](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\터미널 사용법2.md)
+[3. Django 시작하기](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\Django시작하기.md)
+
+
 ##### 2021.05.29 이제야 드디어 혼자서 터미널 명령어로 깃에 처음으로 업로드 했다... ㅠ_ㅠ,, 신기해,,,
