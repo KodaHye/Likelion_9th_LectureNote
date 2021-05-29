@@ -27,8 +27,8 @@
 [8. Bootsrtap](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/3.%20CSS/8.%20Bootstrap.md)<br>
 
 ### 4. Django<br>
-[1. 터미널 사용법(1)](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\터미널 사용법1.md)
-[2. 터미널 사용법(2)](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\터미널 사용법2.md)
+[1. 터미널 사용법(1)](./터미널사용법1.md)
+[2. 터미널 사용법(2)](./멋쟁이 사자처럼/likelion_9th_LectureNote/4. Django settings/터미널 사용법2.md)
 [3. Django 시작하기](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\Django시작하기.md)
 
 
