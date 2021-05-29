@@ -27,9 +27,9 @@
 [8. Bootsrtap](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/3.%20CSS/8.%20Bootstrap.md)<br>
 
 ### 4. Django<br>
-[1. 터미널 사용법(1)](./터미널사용법1.md)
-[2. 터미널 사용법(2)](./멋쟁이 사자처럼/likelion_9th_LectureNote/4. Django settings/터미널 사용법2.md)
-[3. Django 시작하기](E:\멋쟁이 사자처럼\likelion_9th_LectureNote\4. Django settings\Django시작하기.md)
+[1. 터미널 사용법(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%951.md)
+[2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%952.md)
+[3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 
 ##### 2021.05.29 이제야 드디어 혼자서 터미널 명령어로 깃에 처음으로 업로드 했다... ㅠ_ㅠ,, 신기해,,,
