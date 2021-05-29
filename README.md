@@ -1,11 +1,11 @@
 # 🦁Likelion_9th_lecture_note🦁<br>
 
 ### 1. 웹 기초<br>
-[1. Web & Web Service](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/1.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/1.%20Web%20%26%20Web%20Service.md)<br>
-[2. 웹 서버를 만드는 방법](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/1.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/2.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.md)<br>
-[3. HTML](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/1.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/3.%20HTML.md)<br>
-[4. Bootstrap](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/1.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/4.%20Bootstrap.md)<br>
-[5. Github 배포](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/1.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/5.%20Github%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9.md)<br>
+[1. Web & Web Service](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/1.%20%EC%9B%B9%EA%B8%B0%EC%B4%88/1.%20Web%20%26%20Web%20Service.md)<br>
+[2. 웹 서버를 만드는 방법](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/1.%20%EC%9B%B9%EA%B8%B0%EC%B4%88/2.%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.md)<br>
+[3. HTML](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/1.%20%EC%9B%B9%EA%B8%B0%EC%B4%88/3.%20HTML.md)<br>
+[4. Bootstrap](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/1.%20%EC%9B%B9%EA%B8%B0%EC%B4%88/4.%20Bootstrap.md)<br>
+[5. Github 배포](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/1.%20%EC%9B%B9%EA%B8%B0%EC%B4%88/5.%20Github%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9.md)<br>
 
 ### 2. HTML<br>
 [1. Intro](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/2.%20HTML/1.%20Intro.md)<br>
@@ -27,8 +27,8 @@
 [8. Bootsrtap](https://github.com/KodaHye/Likelion_9th_Lecture_Note/blob/main/3.%20CSS/8.%20Bootstrap.md)<br>
 
 ### 4. Django<br>
-[1. 터미널 사용법(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%951.md)
-[2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%952.md)
+[1. 터미널 사용법(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%951.md)<br>
+[2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%952.md)<br>
 [3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 
