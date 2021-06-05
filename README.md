@@ -31,5 +31,11 @@
 [2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%952.md)<br>
 [3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
+### 5. Django<br>
+[1. MTV패턴]()<br>
+[2. Django 실습(1)]()<br>
+[3. Django 실습(2)]()<br>
+[4. Git 사용법]()<br>
+
 
 ##### 2021.05.29 이제야 드디어 혼자서 터미널 명령어로 깃에 처음으로 업로드 했다... ㅠ_ㅠ,, 신기해,,,
