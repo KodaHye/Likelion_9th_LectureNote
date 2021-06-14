@@ -32,10 +32,13 @@
 [3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 ### 5. Django<br>
-[1. MTV패턴]()<br>
-[2. Django 실습(1)]()<br>
-[3. Django 실습(2)]()<br>
-[4. Git 사용법]()<br>
-
-
-##### 2021.05.29 이제야 드디어 혼자서 터미널 명령어로 깃에 처음으로 업로드 했다... ㅠ_ㅠ,, 신기해,,,
+[1. MTV패턴](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/1.%20MTV%ED%8C%A8%ED%84%B4.md)<br>
+[2. Django 실습(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/2.%20Django%20%EC%8B%A4%EC%8A%B5(1).md)<br>
+[3. Django 실습(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/3.%20Django%20%EC%8B%A4%EC%8A%B5(2).md)<br>
+[4. Git 사용법](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/4.%20Git%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)<br>
+[5. Django와 데이터베이스](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/5.%20Django%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)<br>
+[6. Model 실습](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/6.%20Model%20%EC%8B%A4%EC%8A%B5.md)<br>
+[7. CRUD-Read](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/7.%20CRUD-Read.md)<br>
+[8. CRUD-Create](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/8.%20CRUD-Create.md)<br>
+[9. CRUD-Update](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/9.%20CRUD-Update.md)<br>
+[10. CRUD-Delete](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/10.%20CRUD-Delete.md)<br>
