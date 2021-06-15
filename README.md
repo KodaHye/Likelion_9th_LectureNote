@@ -26,10 +26,10 @@
 [7. 상속과 우선순위](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/3.%20CSS/7.%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1.md)<br>
 [8. Bootsrtap](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/3.%20CSS/8.%20Bootstrap.md)<br>
 
-### 4. Django<br>
-[1. 터미널 사용법(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%951.md)<br>
-[2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%952.md)<br>
-[3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+### 4. Django settings<br>
+[1. 터미널 사용법(1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/1.%20%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%95(1).md)<br>
+[2. 터미널 사용법(2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/2.%20%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%95(2).md)<br>
+[3. Django 시작하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/4.%20Django%20settings/3.%20Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 ### 5. Django<br>
 [1. MTV패턴](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/1.%20MTV%ED%8C%A8%ED%84%B4.md)<br>
