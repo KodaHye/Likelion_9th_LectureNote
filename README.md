@@ -42,3 +42,11 @@
 [8. CRUD-Create](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/8.%20CRUD-Create.md)<br>
 [9. CRUD-Update](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/9.%20CRUD-Update.md)<br>
 [10. CRUD-Delete](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/10.%20CRUD-Delete.md)<br>
+[11. Templete 상속]()<br>
+[12. Static]())<br>
+[13. Media]()<br>
+[14. Form]()<br>
+[15. User 확장과 인증(이론)]()<br>
+[16. User 확장과 인증(실습1)]()<br>
+[17. User 확장과 인증(실습2)]()<br>
+[18. Paginator]()<br>
