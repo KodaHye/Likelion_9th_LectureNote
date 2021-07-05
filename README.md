@@ -46,7 +46,12 @@
 [12. Static](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/12.%20Static.md)<br>
 [13. Media](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/13.%20Media.md)<br>
 [14. Form](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/14.%20Form.md)<br>
-[15. User 확장과 인증(이론)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/15.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D(%EC%9D%B4%EB%A1%A0).md)<br>
-<!-- [16. User 확장과 인증(실습1)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/16.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D(%EC%8B%A4%EC%8A%B51).md)<br>
-[17. User 확장과 인증(실습2)](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/17.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D(%EC%8B%A4%EC%8A%B52).md)<br> -->
-<!-- [16. Paginator](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/18.%20Paginator.md)<br> -->
+[15. User 확장과 인증](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/15.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D(%EC%9D%B4%EB%A1%A0).md)<br>
+[16. Paginator](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/16.%20Paginator.md)<br>
+[17. 배포 사전준비](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/17.%20%EB%B0%B0%ED%8F%AC%20%EC%82%AC%EC%A0%84%EC%A4%80%EB%B9%84.md)<br>
+[18. Heroku 배포하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/18.%20Heroku%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)<br>
+[19. Ubuntu 배포하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/19.%20Ubuntu%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)<br>
+[20. Docker란?](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/20.%20Docker%EB%9E%80.md)<br>
+[21. Docker 이미지 생성](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/21.%20Docker%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1.md)<br>
+[22. Docker 서버에 배포하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/22.%20Docker%20%EC%84%9C%EB%B2%84%EC%97%90%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)<br>
+[23. Docker 이미지 자동 생성](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/23.%20Docker%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)<br>
