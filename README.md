@@ -46,7 +46,7 @@
 [12. Static](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/12.%20Static.md)<br>
 [13. Media](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/13.%20Media.md)<br>
 [14. Form](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/14.%20Form.md)<br>
-[15. User 확장과 인증](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/15.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D(%EC%9D%B4%EB%A1%A0).md)<br>
+[15. User 확장과 인증](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/15.%20User%20%ED%99%95%EC%9E%A5%EA%B3%BC%20%EC%9D%B8%EC%A6%9D.md)<br>
 [16. Paginator](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/16.%20Paginator.md)<br>
 [17. 배포 사전준비](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/17.%20%EB%B0%B0%ED%8F%AC%20%EC%82%AC%EC%A0%84%EC%A4%80%EB%B9%84.md)<br>
 [18. Heroku 배포하기](https://github.com/KodaHye/Likelion_9th_LectureNote/blob/main/5.%20Django/18.%20Heroku%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)<br>
